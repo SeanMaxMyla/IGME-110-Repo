@@ -1,7 +1,26 @@
 # Valve Games
 
 ## Half-Life
-//hl1, hl2, hla, hlop4, hlbs
+
+Half-Life
+
+Half-Life: Opposing Force
+
+Half-Life: Blue Shift
+
+Half-Life: Decay
+
+Half-Life 2
+
+Half-Life 2: Episode 1
+
+Half-Life 2: Episode 2
+
+Half-Life 2: Lost Coast
+
+Half-Life: Alyx
+
+Half-Life 3 //(Rickroll)
 
 ### Mods
 
