@@ -6,7 +6,7 @@
 
 - RIT
 - https://www.rit.edu/
-- [RIT]https://www.rit.edu/
+- [RIT] https://www.rit.edu/
 
 - red
 - green
