@@ -4,6 +4,9 @@
 
 ## Level 2 Header
 
+- RIT
+- https://www.rit.edu/
+
 - red
 - green
 - blue
@@ -14,8 +17,3 @@
 
 *italics*
 
-dogs
-
-are
-
-cool
