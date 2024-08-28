@@ -123,9 +123,3 @@
 [**Valve Index**](https://store.steampowered.com/app/1059530/Valve_Index_Headset/)
 
 [**Steam Deck**](https://store.steampowered.com/steamdeck)
-
-### (Some) Mods
-
-//gmod, entropy zero, portal reloaded, rtbr & expansions, portal stories, aperture tag, hl caged, through the city, tf2c, open fortress
-
-[**Half-Life Decay: Solo Mission**](https://store.steampowered.com/app/1874090/HalfLife_Decay_Solo_Mission/)
