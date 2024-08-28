@@ -1,26 +1,32 @@
 # Valve Games
 
-## Half-Life
+## [Half-Life](https://store.steampowered.com/franchise/Half-Life)
 
-[Half-Life](https://store.steampowered.com/app/70/HalfLife/?curator_clanid=4)
+[Half-Life](https://store.steampowered.com/app/70/HalfLife/)
 
-[Half-Life: Opposing Force](https://store.steampowered.com/app/50/HalfLife_Opposing_Force/?curator_clanid=4)
+[Half-Life: Opposing Force](https://store.steampowered.com/app/50/HalfLife_Opposing_Force/)
 
-[Half-Life: Blue Shift](https://store.steampowered.com/app/130/HalfLife_Blue_Shift/?curator_clanid=4)
+[Half-Life: Blue Shift](https://store.steampowered.com/app/130/HalfLife_Blue_Shift/)
 
-Half-Life: Decay
+[Half-Life: Decay](https://store.steampowered.com/app/1874090/HalfLife_Decay_Solo_Mission/) (it isn't on steam, this is an unofficial, unreleased singleplayer port of the game)
 
-Half-Life 2
+[Half-Life: Source](https://store.steampowered.com/app/280/HalfLife_Source/)
 
-Half-Life 2: Episode 1
+[Half-Life Deathmatch: Source](https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/)
 
-Half-Life 2: Episode 2
+Codename Gordon (removed from Steam)
 
-Half-Life 2: Lost Coast
+[Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2/)
 
-Half-Life: Alyx
+[Half-Life 2: Episode 1](https://store.steampowered.com/app/380/HalfLife_2_Episode_One/)
 
-Half-Life 3 //(Rickroll)
+[Half-Life 2: Episode 2](https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/)
+
+[Half-Life 2: Lost Coast](https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/)
+
+[Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/)
+
+[Half-Life 3](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Mods
 
@@ -37,4 +43,4 @@ Half-Life 3 //(Rickroll)
 ## Counter-Strike
 
 ## Other
-//dota, ricochet, deadlock, etc (also gmod)
+//dota, ricochet, deadlock, deathmatch classic, day of defeat
