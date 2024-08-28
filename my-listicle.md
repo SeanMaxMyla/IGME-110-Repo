@@ -84,27 +84,29 @@
 
 [**Day of Defeat**](https://store.steampowered.com/app/30/Day_of_Defeat/)
 
-[**Day of Defeat: Source**]()
+[**Day of Defeat: Source**](https://store.steampowered.com/app/300/Day_of_Defeat_Source/)
 
-[**Alien Swarm**]()
+[**Alien Swarm**](https://store.steampowered.com/app/630/Alien_Swarm/)
 
-[**Deadlock**]() *(currently in closed beta)*
+[**Deadlock**](https://store.steampowered.com/app/1422450/Deadlock/) *(currently in closed beta)*
 
 ## Tech Demos
 
-[**The Lab**]()
+[**The Lab**](https://store.steampowered.com/app/450390/The_Lab/)
 
-[**Aperture Hand Lab**]()
+[**Aperture Hand Lab**](https://store.steampowered.com/app/868020/Aperture_Hand_Lab/)
 
-[**Aperture Desk Job**]()
+[**Aperture Desk Job**](https://store.steampowered.com/app/1902490/Aperture_Desk_Job/)
 
 ## Non-games
 
-[**Steam**]()
+[**Steam**](https://store.steampowered.com/)
 
-[**Steam Link**]()
+[**Steam Link**](https://store.steampowered.com/app/353380/Steam_Link/)
 
-[**Source Filmmaker**]()
+[**Steam VR**](https://store.steampowered.com/app/250820/SteamVR/)
+
+[**Source Filmmaker**](https://store.steampowered.com/app/1840/Source_Filmmaker/)
 
 [**Half-Life: Alyx - Final Hours**](https://store.steampowered.com/app/1361700/HalfLife_Alyx__Final_Hours/)
 
@@ -112,17 +114,17 @@
 
 ## Hardware
 
-[**Steam Controller**]()
+[**Steam Controller**](https://store.steampowered.com/app/353370/Steam_Controller/)
 
 **Steam Machine** *(no longer officially available)*
 
-[**HTC Vive**]()
+[**HTC Vive**](https://www.amazon.com/HTC-VIVE-Virtual-Reality-System-pc/dp/B00VF5NT4I)
 
-[**Valve Index**]()
+[**Valve Index**](https://store.steampowered.com/app/1059530/Valve_Index_Headset/)
 
-[**Steam Deck**]()
+[**Steam Deck**](https://store.steampowered.com/steamdeck)
 
-### Mods
+### (Some) Mods
 
 //gmod, entropy zero, portal reloaded, rtbr & expansions, portal stories, aperture tag, hl caged, through the city, tf2c, open fortress
 
