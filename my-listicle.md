@@ -34,15 +34,35 @@ Codename Gordon (removed from Steam)
 
 [Portal 2](https://store.steampowered.com/app/620/Portal_2/)
 
-[Portal RTX]()
+[Portal RTX](https://store.steampowered.com/app/2012840/Portal_with_RTX/)
 
-[Portal: Prelude RTX]()
+[Portal: Prelude RTX](https://store.steampowered.com/app/2410180/Portal_Prelude_RTX/)
 
 ## Team Fortress
 
+[Team Fortress Classic](https://store.steampowered.com/app/20/Team_Fortress_Classic/)
+
+[Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/)
+
 ## Left 4 Dead
 
+[Left 4 Dead](https://store.steampowered.com/app/500/Left_4_Dead/)
+
+[Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)
+
 ## Counter-Strike
+
+[Counter-Strike](https://store.steampowered.com/app/10/CounterStrike/)
+
+[Counter-Strike: Condition Zero](https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/)
+
+Counter-Strike: Condition Zero Deleted Scenes (included with CS:CZ)
+
+[Counter-Strike: Source](https://store.steampowered.com/app/240/CounterStrike_Source/)
+
+Counter-Strike: Global Offensive (replaced by CS2 on Steam)
+
+[Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
 
 ## Other
 //dota, ricochet, deadlock, deathmatch classic, day of defeat
