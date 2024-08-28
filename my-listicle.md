@@ -100,7 +100,9 @@
 
 ## Non-games
 
-[**Steam**]
+[**Steam**]()
+
+[**Steam Link**]()
 
 [**Source Filmmaker**]()
 
@@ -110,7 +112,15 @@
 
 ## Hardware
 
-//controller, steam machine, htc vive, valve index, steam deck
+[**Steam Controller**]()
+
+**Steam Machine** *(no longer officially available)*
+
+[**HTC Vive**]()
+
+[**Valve Index**]()
+
+[**Steam Deck**]()
 
 ### Mods
 
