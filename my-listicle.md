@@ -2,11 +2,11 @@
 
 ## Half-Life
 
-Half-Life
+[Half-Life](https://store.steampowered.com/app/70/HalfLife/?curator_clanid=4)
 
-Half-Life: Opposing Force
+[Half-Life: Opposing Force](https://store.steampowered.com/app/50/HalfLife_Opposing_Force/?curator_clanid=4)
 
-Half-Life: Blue Shift
+[Half-Life: Blue Shift](https://store.steampowered.com/app/130/HalfLife_Blue_Shift/?curator_clanid=4)
 
 Half-Life: Decay
 
