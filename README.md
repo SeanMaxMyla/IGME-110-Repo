@@ -10,6 +10,8 @@
 
 ![tacos](https://m.media-amazon.com/images/I/51aMNxjwfIS._AC_UY1000_.jpg)
 
+![creature](md-images/cassie.jpg)
+
 - red
 - green
 - blue
