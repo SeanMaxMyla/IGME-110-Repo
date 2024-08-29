@@ -108,6 +108,8 @@
 
 [**Source Filmmaker**](https://store.steampowered.com/app/1840/Source_Filmmaker/)
 
+[**Portal 2 - The Final Hours**](https://store.steampowered.com/app/104600/Portal_2__The_Final_Hours/)
+
 [**Half-Life: Alyx - Final Hours**](https://store.steampowered.com/app/1361700/HalfLife_Alyx__Final_Hours/)
 
 [**Half-Life: 25th Anniversery Documentary**](https://www.youtube.com/watch?v=TbZ3HzvFEto)
